@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+![](https://komarev.com/ghpvc/?username=mpmnath&color=green)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=mpmnath&theme=onedark)](https://github.com/mpmnath/github-profile-trophy)
 <!--
 **mpmnath/mpmnath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
