@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+++++++++++ UNDER WORK +++++++++++
+
+TBH, I DONT POSSES ALL THESE SKILLS, WILL UPDATE THE PAGE IN 2 DAYS
+
 ![](https://komarev.com/ghpvc/?username=mpmnath&color=green)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mpmnath&theme=onedark)](https://github.com/mpmnath/github-profile-trophy)
