@@ -114,20 +114,14 @@ Here are some ideas to get you started:
   <a href="https://github.com/mpmnath">
     <img 
       align="center" 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=mpmnath&repo=mpmnath&theme=github_dark"
-      alt="Personal repo" 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=mpmnath&repo=scoop_it&theme=github_dark"
+      alt="Scoop It - News App" 
     />
   </a>
   <a href="https://github.com/mpmnath">
     <img 
       align="center" 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=mpmnath&repo=.dotfiles&theme=github_dark" alt="My dotfiles" 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=mpmnath&repo=frapper&theme=github_dark" alt="Idealo Replica" 
     />
   </a>
-</p><br /><div align="center">
-  <img 
-    align="center" 
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord"
-    alt="Quote" 
-  />
-</div>
+</p><br />
