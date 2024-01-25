@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img 
+  <img
     alt="Github stats" 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mpmnath&theme=github_dark" 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mpmnath&theme=github_dark"
+    width="500px"
   />
   &nbsp;&nbsp;
   <img 
