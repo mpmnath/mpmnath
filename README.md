@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   <img src="./src/global/assets/icons/figma.svg" alt="figma" />
   <img src="./src/global/assets/icons/photoshop.svg" alt="photoshop" />
   <img src="./src/global/assets/icons/dart.svg" alt="dart" />
-    <img src="./src/global/assets/icons/flutter.svg" alt="flutter" />
+  <img src="./src/global/assets/icons/flutter.svg" alt="flutter" />
   <img src="./src/global/assets/icons/typescript.svg" alt="typescript" />
   <img src="./src/global/assets/icons/javascript.svg" alt="javascript" />
   <img src="./src/global/assets/icons/c++.svg" alt="c++" />
@@ -59,7 +59,6 @@ Here are some ideas to get you started:
   <img src="./src/global/assets/icons/styled_components.svg" alt="styled_components" />
   <img src="./src/global/assets/icons/npm.svg" alt="npm" />
   <img src="./src/global/assets/icons/yarn.svg" alt="yarn" />
-  <img src="./src/global/assets/icons/pnpm.svg" alt="pnpm" />
   <img src="./src/global/assets/icons/eslint.svg" alt="eslint" />
   <img src="./src/global/assets/icons/prettier.svg" alt="prettier" />
   <img src="./src/global/assets/icons/markdown.svg" alt="markdown" />
