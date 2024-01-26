@@ -2,7 +2,7 @@
 
 ++++++++++ UNDER WORK +++++++++++
 
-TBH, I DONT POSSES ALL THESE SKILLS, WILL UPDATE THE PAGE IN 2 DAYS
+Mainly office based projects, very few personal incomplete projects
 
 ![](https://komarev.com/ghpvc/?username=mpmnath&color=green)
 
