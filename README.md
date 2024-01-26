@@ -26,7 +26,6 @@ Here are some ideas to get you started:
   <img
     alt="Github stats" 
     src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mpmnath&theme=github_dark"
-    width="500px"
   />
   &nbsp;&nbsp;
   <img 
