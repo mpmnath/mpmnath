@@ -40,18 +40,18 @@ Here are some ideas to get you started:
   <img src="./src/global/assets/icons/git.svg" alt="git" />
   <img src="./src/global/assets/icons/github.svg" alt="github" />
   <img src="./src/global/assets/icons/gitlab.svg" alt="gitlab" />
-  <img src="./src/global/assets/icons/vscode.svg" alt="vscode" />
-  <img src="./src/global/assets/icons/visual_studio.svg" alt="visual_studio" />
-  <img src="./src/global/assets/icons/notion.svg" alt="notion" />
-  <img src="./src/global/assets/icons/postman.svg" alt="postman" />
-  <img src="./src/global/assets/icons/figma.svg" alt="figma" />
-  <img src="./src/global/assets/icons/photoshop.svg" alt="photoshop" />
   <img src="./src/global/assets/icons/dart.svg" alt="dart" />
   <img src="./src/global/assets/icons/flutter.svg" alt="flutter" />
   <img src="./src/global/assets/icons/typescript.svg" alt="typescript" />
   <img src="./src/global/assets/icons/javascript.svg" alt="javascript" />
   <img src="./src/global/assets/icons/c++.svg" alt="c++" />
   <img src="./src/global/assets/icons/csharp.svg" alt="csharp" />
+  <img src="./src/global/assets/icons/vscode.svg" alt="vscode" />
+  <img src="./src/global/assets/icons/visual_studio.svg" alt="visual_studio" />
+  <img src="./src/global/assets/icons/notion.svg" alt="notion" />
+  <img src="./src/global/assets/icons/postman.svg" alt="postman" />
+  <img src="./src/global/assets/icons/figma.svg" alt="figma" />
+  <img src="./src/global/assets/icons/photoshop.svg" alt="photoshop" />
   <img src="./src/global/assets/icons/latex.svg" alt="latex" />
   <img src="./src/global/assets/icons/html.svg" alt="html" />
   <img src="./src/global/assets/icons/css.svg" alt="css" />
