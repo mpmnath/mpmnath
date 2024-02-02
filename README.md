@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
+<div align="center" st>
   <img
     alt="Github stats" 
     src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mpmnath&theme=github_dark"
@@ -31,9 +31,11 @@ Here are some ideas to get you started:
   <img 
     alt="Code gif" 
     src="./src/global/assets/gif/code_gif.gif" 
-    width="100%" 
+    width="50%" 
   />
-</div><br /><h2 align="center">🛠️ Technologies and Tools I use 🛠️</h2>
+</div>
+<br />
+<h2 align="center">🛠️ Technologies & Tools I use 🛠️</h2>
 
 <p align="center">
   <img src="./src/global/assets/icons/git.svg" alt="git" />
