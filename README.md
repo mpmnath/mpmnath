@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img 
     alt="Code gif" 
     src="./src/global/assets/gif/code_gif.gif" 
-    width=vw 
+    width="100%" 
   />
 </div><br /><h2 align="center">🛠️ Technologies and Tools I use 🛠️</h2>
 
