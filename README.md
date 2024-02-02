@@ -28,12 +28,6 @@ Here are some ideas to get you started:
     alt="Github stats" 
     src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mpmnath&theme=github_dark"
   />
-  &nbsp;&nbsp;
-  <img 
-    alt="Code gif" 
-    src="./src/global/assets/gif/code_gif.gif" 
-    width="50%" 
-  />
 </div>
 <br />
 <h2 align="center">🛠️ Technologies & Tools I use 🛠️</h2>
