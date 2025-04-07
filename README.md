@@ -25,16 +25,6 @@
 
 ---
 
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <a href="https://github.com/mpmnath/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mpmnath&theme=onedark&column=4&margin-w=10&margin-h=15" />
-  </a>
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -45,6 +35,16 @@
   <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mpmnath&theme=github_dark" />
   <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mpmnath&theme=github_dark" />
 </div>
+
+---
+
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/mpmnath/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mpmnath&theme=onedark&column=4&margin-w=10&margin-h=15" />
+  </a>
+</p>
 
 ---
 
@@ -67,7 +67,6 @@
   <img src="./src/global/assets/icons/figma.svg" alt="figma" height="40" />
   <img src="./src/global/assets/icons/vscode.svg" alt="vscode" height="40" />
   <img src="./src/global/assets/icons/aws.svg" alt="aws" height="40" />
-  <img src="./src/global/assets/icons/firebase.svg" alt="firebase" height="40" />
 </p>
 
 ---
