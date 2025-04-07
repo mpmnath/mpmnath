@@ -29,7 +29,7 @@
 
 <div align="center">
   <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mpmnath&theme=github_dark" />
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mpmnath&theme=github_dark&utcOffset=8" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mpmnath&theme=github_dark&utcOffset=2" />
 </div>
 <div align="center">
   <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mpmnath&theme=github_dark" />
