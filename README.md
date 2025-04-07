@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://github.com/mpmnath/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mpmnath&theme=onedark&column=4&margin-w=10&margin-h=15" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mpmnath&theme=onedark&column=8&margin-w=10&margin-h=15" />
   </a>
 </p>
 
