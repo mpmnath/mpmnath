@@ -52,14 +52,12 @@ Mainly office based projects, very few personal incomplete projects
   <img src="./src/global/assets/icons/react.svg" alt="react" />
   <img src="./src/global/assets/icons/next.svg" alt="next" />
   <img src="./src/global/assets/icons/express.svg" alt="express" />
-  <img src="./src/global/assets/icons/react_native.svg" alt="react_native" />
   <img src="./src/global/assets/icons/windows.svg" alt="windows" />
   <img src="./src/global/assets/icons/mac.svg" alt="mac" />
   <img src="./src/global/assets/icons/linux.svg" alt="linux" />
   <img src="./src/global/assets/icons/android.svg" alt="android" />
   <img src="./src/global/assets/icons/windows_terminal.svg" alt="windows_terminal" />
   <img src="./src/global/assets/icons/powershell.svg" alt="powershell" />
-  <img src="./src/global/assets/icons/redux.svg" alt="redux" />
   <img src="./src/global/assets/icons/graphql.svg" alt="graphql" />
   <img src="./src/global/assets/icons/postgresql.svg" alt="postgresql" />
   <img src="./src/global/assets/icons/mysql.svg" alt="mysql" />
