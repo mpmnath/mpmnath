@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Manjunath
 
+📱 **Mobile App Developer (Flutter | Android | iOS)**  
 🚀 Passionate Flutter Developer | 💙 Dart Enthusiast | 🧠 Always Learning  
 💼 Mostly working on **office projects**, but personal ideas are brewing!
 
@@ -12,8 +13,10 @@
 ### 🧩 My Flutter & Dart World
 
 <p align="center">
-  <img src="./src/global/assets/icons/flutter.svg" height="40" alt="Flutter" />
-  <img src="./src/global/assets/icons/dart.svg" height="40" alt="Dart" />
+  <img src="./src/global/assets/icons/flutter.svg" height="50" alt="Flutter" />
+  <img src="./src/global/assets/icons/dart.svg" height="50" alt="Dart" />
+  <img src="./src/global/assets/icons/android.svg" height="50" alt="Android" />
+  <img src="./src/global/assets/icons/mac.svg" height="50" alt="iOS" />
 </p>
 
 <p align="center">
@@ -48,39 +51,40 @@
 ### 🛠️ Technologies & Tools I Use
 
 <p align="center">
-  <img src="./src/global/assets/icons/flutter.svg" alt="flutter" height="35" />
-  <img src="./src/global/assets/icons/dart.svg" alt="dart" height="35" />
-  <img src="./src/global/assets/icons/javascript.svg" alt="javascript" height="35" />
-  <img src="./src/global/assets/icons/typescript.svg" alt="typescript" height="35" />
-  <img src="./src/global/assets/icons/c++.svg" alt="c++" height="35" />
-  <img src="./src/global/assets/icons/csharp.svg" alt="csharp" height="35" />
-  <img src="./src/global/assets/icons/react.svg" alt="react" height="35" />
-  <img src="./src/global/assets/icons/next.svg" alt="next" height="35" />
-  <img src="./src/global/assets/icons/git.svg" alt="git" height="35" />
-  <img src="./src/global/assets/icons/github.svg" alt="github" height="35" />
-  <img src="./src/global/assets/icons/postman.svg" alt="postman" height="35" />
-  <img src="./src/global/assets/icons/figma.svg" alt="figma" height="35" />
-  <img src="./src/global/assets/icons/vscode.svg" alt="vscode" height="35" />
-  <img src="./src/global/assets/icons/aws.svg" alt="aws" height="35" />
-  <img src="./src/global/assets/icons/firebase.svg" alt="firebase" height="35" />
+  <img src="./src/global/assets/icons/flutter.svg" alt="flutter" height="40" />
+  <img src="./src/global/assets/icons/dart.svg" alt="dart" height="40" />
+  <img src="./src/global/assets/icons/android.svg" alt="android" height="40" />
+  <img src="./src/global/assets/icons/mac.svg" alt="ios" height="40" />
+  <img src="./src/global/assets/icons/javascript.svg" alt="javascript" height="40" />
+  <img src="./src/global/assets/icons/typescript.svg" alt="typescript" height="40" />
+  <img src="./src/global/assets/icons/c++.svg" alt="c++" height="40" />
+  <img src="./src/global/assets/icons/csharp.svg" alt="csharp" height="40" />
+  <img src="./src/global/assets/icons/react.svg" alt="react" height="40" />
+  <img src="./src/global/assets/icons/next.svg" alt="next" height="40" />
+  <img src="./src/global/assets/icons/git.svg" alt="git" height="40" />
+  <img src="./src/global/assets/icons/github.svg" alt="github" height="40" />
+  <img src="./src/global/assets/icons/postman.svg" alt="postman" height="40" />
+  <img src="./src/global/assets/icons/figma.svg" alt="figma" height="40" />
+  <img src="./src/global/assets/icons/vscode.svg" alt="vscode" height="40" />
+  <img src="./src/global/assets/icons/aws.svg" alt="aws" height="40" />
+  <img src="./src/global/assets/icons/firebase.svg" alt="firebase" height="40" />
 </p>
 
 ---
 
 ### 💬 Ask Me About
 
-- Flutter Clean Architecture 🧼
-- Firebase Integration 🔥
-- Animation-rich UIs ✨
-- Dart FFI & performance optimization ⚙️
+- Flutter Clean Architecture 🧼  
+- Firebase Integration 🔥  
+- Animation-rich UIs ✨  
+- Dart FFI & Performance Optimization ⚙️  
 
 ---
 
 ### 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mpmnath/)
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mpmnath)
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/yourid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjunath95/)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9930369/amateurcoder)
 
 ---
 
